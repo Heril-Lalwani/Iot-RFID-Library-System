@@ -25,8 +25,6 @@
 // #define WIFI_PASSWORD "prey@123"
 // #define WIFI_SSID "RJ"
 // #define WIFI_PASSWORD "passw0rd"
-// #define WIFI_SSID "TP-Link_7244"
-// #define WIFI_PASSWORD "devdas36"
 // #define WIFI_SSID "POCO F5"
 // #define WIFI_PASSWORD "1234567890"
 #define WIFI_SSID "Prashant"
