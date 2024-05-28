@@ -132,6 +132,7 @@ void setup() {
 
 
 void loop() {  
+  while(1){
     if (!readTag()) {
       delay(100);
       if(detectedBlockTag){
@@ -155,7 +156,7 @@ void loop() {
         }
       }
     }    
-
+  }
 }
 
 
